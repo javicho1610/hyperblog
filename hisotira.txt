@@ -3,3 +3,5 @@ Este es un archivo de prueba.
 Ahora puedo modificarlo para subir cambios.
 
 Ahora podremos agregar más información al archivo.
+
+Aprendiendo git con Platzi :)
